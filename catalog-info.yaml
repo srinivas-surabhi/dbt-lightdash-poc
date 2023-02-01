@@ -4,6 +4,7 @@ metadata:
   name: dbt-lightdash-poc
   annotations:
     github.com/project-slug: srinivas-surabhi/dbt-lightdash-poc
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
